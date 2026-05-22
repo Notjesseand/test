@@ -1,0 +1,32 @@
+.hero-text {
+  color: red;
+}
+
+img {
+  height: 500px;
+  display: flex;
+}
+
+/* .hero-section {
+  background-image: url(/assets/our-vision.jpg);
+  height: 1000px;
+}
+
+.hero-section-text{
+  font-size: 30px;
+  font-weight: bold;
+  font-family: monospace;
+} */
+
+.hero-section {
+  height: 1000px;
+  background-image: url(assets/profile.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hero-section-text {
+  font-family:verdana;
+  font-size: 40px;
+  color:white
+}
